@@ -1,4 +1,4 @@
-# CSED538/AIGS538 Final Project, FedWAGG
+# Deep Learning(CSED538/AIGS538) Final Project, FedWAGG(Federated Learning based on Weighted Aggregation)
 
 This project proposes a federated learning methodology, FedWAGG using weighted clustering method to solve the non-I.I.D issue of federated learning.
 We confirmed FedWAGG has a stabilizing effect for the learning of global model on Non-I.I.D datasets in federated learning.
@@ -40,7 +40,7 @@ Training data:
 			[0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.45, 0.45, 0.03],
 			[0.03, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.45, 0.45],
 		2: 
-		    [0.9, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01],
+		    	[0.9, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01],
 			[0.01, 0.9, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01],
 			[0.01, 0.01, 0.9, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01],
 			[0.01, 0.01, 0.01, 0.9, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01],
@@ -50,3 +50,13 @@ Training data:
 			[0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.9, 0.02, 0.01],
 			[0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.9, 0.02],
 
+## Results
+Short summary)
+Summarizing our experimental results, FEDWAGG had the effect of stabilizing global model learning. However, there was no significant performance improvement in FEDWAGG compared to FEDAVG for non-IID dataset.
+Please refer [final report](https://github.com/junsoo37/FedWAGG/blob/master/FEDWAGG_report.pdf) to check full results.
+
+<img width="374" alt="image" src="https://github.com/junsoo37/FedWAGG/assets/73781220/f239cef3-5a80-4f5d-b9bd-605b934c59a6">
+
+Team with
+  - Sumin Song (songsm921@postech.ac.kr)
+  - Chanyoung Maeng (mcy5712@postech.ac.kr)
