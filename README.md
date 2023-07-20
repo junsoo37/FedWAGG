@@ -24,12 +24,16 @@ python FedWAGG.py
 
 ## Project Information
 Number of clients: 9
+
 Number of clients per cluster: 3
+
 Model: 2-Layer Convolutional Neural Network
 
 Training data:
 	Num of Training set: 1500
+ 
 	Num of Test set: 200
+ 
 	client_data_distributions:
 		refer report or code
 
