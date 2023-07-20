@@ -1,6 +1,7 @@
-# Deep Learning(CSED538/AIGS538) Final Project, FedWAGG(Federated Learning based on Weighted Aggregation)
+# Deep Learning(CSED538/AIGS538) Final Project, FedWAGG
 
-This project proposes a federated learning methodology, FedWAGG using weighted clustering method to solve the non-I.I.D issue of federated learning.
+POSTECH 2023 Spring Deep Learning(CSED538/AIGS538) Project
+This project proposes a federated learning methodology, FedWAGG(Federated Learning based on Weighted Aggregation) using weighted clustering method to solve the non-I.I.D issue of federated learning.
 We confirmed FedWAGG has a stabilizing effect for the learning of global model on Non-I.I.D datasets in federated learning.
 
 ## Environment Configuration
