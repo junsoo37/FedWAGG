@@ -55,7 +55,7 @@ Short summary)
 Summarizing our experimental results, FEDWAGG had the effect of stabilizing global model learning. However, there was no significant performance improvement in FEDWAGG compared to FEDAVG for non-IID dataset.
 Please refer [final report](https://github.com/junsoo37/FedWAGG/blob/master/FEDWAGG_report.pdf) to check full results.
 
-<img width="374" alt="image" src="https://github.com/junsoo37/FedWAGG/assets/73781220/f239cef3-5a80-4f5d-b9bd-605b934c59a6">
+<img width="500" alt="image" src="https://github.com/junsoo37/FedWAGG/assets/73781220/f239cef3-5a80-4f5d-b9bd-605b934c59a6">
 
 Team with
   - Sumin Song (songsm921@postech.ac.kr)
